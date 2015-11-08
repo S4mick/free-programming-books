@@ -97,8 +97,8 @@
 
 ###Ruby
 
-*[Introduzione a Ruby](http://tesi.cab.unipd.it/22937/1/Tesina_-_Introduzione_a_Ruby.pdf)
-*[Ruby User Guide](http://ruby-it.org/rug_it.zip)
+* [Introduzione a Ruby](http://tesi.cab.unipd.it/22937/1/Tesina_-_Introduzione_a_Ruby.pdf)
+* [Ruby User Guide](http://ruby-it.org/rug_it.zip)
 
 
 ###Visual Basic
